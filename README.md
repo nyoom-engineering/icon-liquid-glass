@@ -23,4 +23,8 @@ make watchos # export icon for watchos
 make clean # delete exports
 ```
 
+Alternatively, open the icon in Icon Composer and edit as normal 
+
+<img width="1552" alt="image" src="https://github.com/user-attachments/assets/2de0206b-3cb5-4b98-86c0-5e8f91c233ef" />
+
 As far as I can tell the macOS and iOS exports are both identical but both targets are included for posterity. 
